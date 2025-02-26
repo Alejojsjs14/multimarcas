@@ -1,0 +1,55 @@
+[
+  {
+    "id":1,
+    "nombre": "Audífonos",
+    "imgSrc": "/img/Categorias/Accesorios.png",
+    "imgText": "/img/Categorias/nombres/audifonos.svg",
+    "imgAlt": "Audífonos",
+    "slug": "audifonos",
+    "marcas": [
+      {
+        "id": 1,
+        "nombre": "1Hora",
+        "cantidadProductos": 10
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "nombre": "Accesorios",
+    "imgSrc": "/img/Categorias/Accesorios.png",
+    "imgText": "/img/Categorias/nombres/accesorios.svg",
+    "imgAlt": "Accesorios",
+    "slug": "accesorios",
+    "marcas": [
+      {
+        "id": 2,
+        "nombre": "1Hora",
+        "cantidadProductos": 10
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Altavoces",
+    "imgSrc": "/img/Categorias/Altavoz.png",
+    "imgText": "/img/Categorias/nombres/altavoces.svg",
+    "imgAlt": "Altavoces",
+    "slug": "altavoces",
+    "marcas": [
+      {
+        "id": 3,
+        "nombre": "1Hora",
+        "cantidadProductos": 10
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Ver Todo",
+    "imgSrc": "/img/Categorias/Accesorios.png",
+    "imgText": "/img/Categorias/nombres/todo.svg",
+    "imgAlt": "Ver Todo",
+    "slug": "ver-todo"
+  }
+]

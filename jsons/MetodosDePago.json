@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "src": "/img/MediosPagoLogo/AddiPagos.svg",
+    "alt": "Addi",
+    "value": "Paga a Crédito y a Cuotas con Addi",
+    "description": "Paga a crédito y a cuotas con Addi, una plataforma de pagos que te permite comprar ahora y pagar después. Con Addi puedes pagar en cuotas sin intereses y sin tarjeta de crédito. ¡Es fácil, rápido y seguro!"
+  },
+  {
+    "id": 2,
+    "src": "/img/MediosPagoLogo/SuPayPagos.svg",
+    "alt": "SuPay",
+    "value": "Sumas Pay, Nequi, Cerospay",
+    "description": "Luego de hacer clic en “Pagar ahora”, serás redirigido a Paga a Crédito y a Cuotas con Addi para completar tu compra de forma segura."
+  },
+  {
+    "id": 3,
+    "src": "/img/MediosPagoLogo/WompiPagos.svg",
+    "alt": "Wompi",
+    "value": "Pagos con Tarjetas de Crédito, Débito, Efecty y PSE con Wompi",
+    "description": "Luego de hacer clic en “Pagar ahora”, serás redirigido a Paga a Crédito y a Cuotas con Addi para completar tu compra de forma segura."
+  },
+  {
+    "id": 4,
+    "src": "/img/MediosPagoLogo/BancoBogota.png",
+    "alt": "Banco Bogotá",
+    "value": "Pagos con tarjeta de Credito, Debito y PSE",
+    "description": "Luego de hacer clic en “Pagar ahora”, serás redirigido a Paga a Crédito y a Cuotas con Addi para completar tu compra de forma segura."
+  },
+  {
+    "id": 5,
+    "src": "/img/MediosPagoLogo/CeroPay.png",
+    "alt": "CeroPay",
+    "value": "Pagos con tarjeta de Credito, Debito y PSE",
+    "description": "Luego de hacer clic en “Pagar ahora”, serás redirigido a Paga a Crédito y a Cuotas con Addi para completar tu compra de forma segura."
+  },
+  {
+    "id": 6,
+    "src": "/img/MediosPagoLogo/Ellipse.png",
+    "alt": "Ellipse",
+    "value": "Pagos con tarjeta de Credito, Debito y PSE",
+    "description": "Luego de hacer clic en “Pagar ahora”, serás redirigido a Paga a Crédito y a Cuotas con Addi para completar tu compra de forma segura."
+  }
+]

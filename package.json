@@ -1,0 +1,70 @@
+{
+  "name": "asincode-back",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "imports": {
+    "#*": "./src/*"
+  },
+  "scripts": {
+    "test": "node --test",
+    "test:local": "npx c8 --all --exclude '.config.' --include 'src/' npm test --env-file=.env.test",
+    "test:coverage": "npx c8 --reporter=lcov npm test",
+    "start": "node --watch --env-file=.env server.js",
+    "lint": "npx eslint .",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "[![Running Tests](https://github.com/asincode-sas/asincode-backend/actions/workflows/unit.yaml/badge.svg)](https://github.com/asincode-sas/asincode-backend/actions/workflows/unit.yaml)",
+  "devDependencies": {
+    "@commitlint/cli": "^19.6.1",
+    "@commitlint/config-conventional": "^19.6.0",
+    "@types/express": "^5.0.0",
+    "c8": "^10.1.3",
+    "eslint-config-lintastic": "github:asincode-sas/eslint-config-lintastic",
+    "globals": "^15.12.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.3.0",
+    "prettier": "^3.4.2",
+    "supertest": "^7.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "compression": "^1.7.5",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "firebase-functions": "^6.1.2",
+    "http-status": "^2.0.0",
+    "joi": "^17.13.3",
+    "nodemailer": "^6.9.16",
+    "pg": "^8.13.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.5"
+  },
+  "c8": {
+    "exclude": [
+      ".config.*"
+    ],
+    "include": [
+      "src/"
+    ],
+    "reporter": "text",
+    "all": true,
+    "check-coverage": true,
+    "branches": 0,
+    "functions": 0,
+    "lines": 0,
+    "statements": 0
+  },
+  "lint-staged": {
+    "*.{js,ts}": [
+      "npx eslint --fix",
+      "npx c8 node --test"
+    ]
+  },
+  "directories": {
+    "test": "test"
+  }
+}

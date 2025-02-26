@@ -1,0 +1,202 @@
+[
+  {
+    "id": 101010,
+    "fecha": "2025-02-01",
+    "estado": "Pendiente",
+    "nombre": "Martha",
+    "apellido": "Gomez",
+    "telefono": "3054539782",
+    "email": "marthaGM90@gmail.com",
+    "direccion": {
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "barrio": "Sabaneta",
+      "calle": "72 Sur177",
+      "carrera": "44b",
+      "numero": "73-44",
+      "numeroDepartamento": null
+    },
+    "resumen": [
+      {
+        "tienda": "Tecnosuper",
+        "logo": "/img/TecnoSuper/logos/tecnosuper.png",
+        "productos": [
+          {
+            "id": 18,
+            "marca": "Xiaomi",
+            "nombre": "Redmi Note 11 Pro",
+            "imagen": "/img/TecnoSuper/productos/xiaomi.png",
+            "color": "Azul",
+            "cantidad": 1,
+            "precioBase": 999900,
+            "precioCompra": 599900
+          }
+        ]
+      },
+      {
+        "tienda": "1Hora",
+        "logo": "/img/1Hora/logos/1Hora.png",
+        "productos": [
+          {
+            "id": 1,
+            "marca": "1Hora",
+            "nombre": "Audífonos inalámbricos AUT119",
+            "imagen": "/img/1Hora/productos/Audifonos.png",
+            "color": "Negro",
+            "cantidad": 1,
+            "precioCompra": 39900
+          }
+        ]
+      }
+    ],
+    "factura": {
+      "id": "TCN3664",
+      "referenciaPago": "tcx-194899fcacc1-ac449f57",
+      "subtotal": 638900,
+      "cupones": 43900,
+      "envio": 14900,
+      "total": 609900
+    }
+  },
+  {
+    "id": 121212,
+    "fecha": "2025-01-22",
+    "estado": "Por Despachar",
+    "nombre": "Alex",
+    "apellido": "Ceballos",
+    "telefono": "123456",
+    "email": "alex.ceballos@gmail.com",
+    "direccion": {
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "barrio": "Sabaneta",
+      "calle": "72 Sur177",
+      "carrera": "44b",
+      "numero": "73-44",
+      "numeroDepartamento": null
+    },
+    "resumen": [
+      {
+        "tienda": "Tecnosuper",
+        "logo": "/img/TecnoSuper/logos/tecnosuper.png",
+        "productos": [
+          {
+            "id": 18,
+            "marca": "Xiaomi",
+            "nombre": "Redmi Note 11 Pro",
+            "imagen": "/img/TecnoSuper/productos/xiaomi.png",
+            "color": "Azul",
+            "cantidad": 1,
+            "precioBase": 999900,
+            "precioCompra": 599900
+          }
+        ]
+      },
+      {
+        "tienda": "1Hora",
+        "logo": "/img/1Hora/logos/1Hora.png",
+        "productos": [
+          {
+            "id": 1,
+            "marca": "1Hora",
+            "nombre": "Audífonos inalámbricos AUT119",
+            "imagen": "/img/1Hora/productos/Audifonos.png",
+            "color": "Negro",
+            "cantidad": 1,
+            "precioCompra": 39900
+          }
+        ]
+      }
+    ],
+    "factura": {
+      "id": "TCN3664",
+      "referenciaPago": "tcx-194899fcacc1-ac449f57",
+      "subtotal": 638900,
+      "cupones": 43900,
+      "envio": 14900,
+      "total": 609900
+    }
+  },
+  {
+    "id": 123456,
+    "fecha": "2025-01-19",
+    "estado": "Cancelado",
+    "nombre": "Carlos",
+    "apellido": "Mejia",
+    "telefono": "123456",
+    "email": "alex.ceballos@gmail.com"
+  },
+  {
+    "id": 654321,
+    "fecha": "2025-01-12",
+    "estado": "Despachado",
+    "nombre": "Daniela",
+    "apellido": "Osorio",
+    "telefono": "123456",
+    "email": "alex.ceballos@gmail.com",
+    "direccion": {
+      "departamento": "Antioquia",
+      "ciudad": "La Union",
+      "barrio": "parque Josam",
+      "calle": "9",
+      "carrera": "8",
+      "numero": "73-44",
+      "numeroDepartamento": null
+    },
+    "envio": {
+      "transportadora": "coordinadora",
+      "guia": "70-4822-1423"
+    },
+    "resumen": [
+      {
+        "tienda": "Tecnosuper",
+        "logo": "/img/TecnoSuper/logos/tecnosuper.png",
+        "productos": [
+          {
+            "id": 18,
+            "marca": "Xiaomi",
+            "nombre": "Redmi Note 11 Pro",
+            "imagen": "/img/TecnoSuper/productos/xiaomi.png",
+            "color": "Azul",
+            "cantidad": 2,
+            "precioBase": 1999800,
+            "precioCompra": 1199800
+          },
+          {
+            "id": 19,
+            "marca": "Samsung",
+            "nombre": "Samsung Galaxy S21",
+            "imagen": "/img/TecnoSuper/productos/xiaomi.png",
+            "color": "Negro",
+            "cantidad": 1,
+            "precioBase": 899990,
+            "precioCompra": 699990
+          }
+        ]
+      },
+      {
+        "tienda": "1Hora",
+        "logo": "/img/1Hora/logos/1Hora.png",
+        "productos": [
+          {
+            "id": 1,
+            "marca": "1Hora",
+            "nombre": "Audífonos inalámbricos AUT119",
+            "imagen": "/img/1Hora/productos/Audifonos.png",
+            "color": "Negro",
+            "cantidad": 1,
+            "precioCompra": 39900
+          }
+        ]
+      }
+    ],
+    "factura": {
+      "id": "TCN3664",
+      "referenciaPago": "tcx-194899fcacc1-ac449f57",
+      "subtotal": 638900,
+      "cupones": 43900,
+      "envio": 14900,
+      "total": 609900
+    }
+  }
+]

@@ -1,0 +1,561 @@
+[
+  {
+    "id": 1,
+    "tienda": "1Hora",
+    "marca": "1Hora",
+    "categoria": "Audífonos",
+    "categoriaSlug": "audifonos",
+    "nombre": "Audífonos Inalámbricos AUT119",
+    "descripcion": "Audífonos inalámbricos con excelente calidad de sonido y diseño ergonómico",
+    "imagenInformacion": "/img/1Hora/productos/Audifonos.png",
+    "precio": 39900,
+    "descuento": false,
+    "porcentajeDescuento": 0,
+    "imagen": "/img/1Hora/productos/Audifonos.png",
+    "imagenes": [
+      "/img/1Hora/productos/Audifonos.png",
+      "/img/1Hora/productos/Audifonos.png"
+    ],
+    "caracteristicas": [
+      "Conectividad Bluetooth 5.0",
+      "Diseño ergonómico",
+      "Batería de larga duración",
+      "Calidad de sonido superior"
+    ],
+    "ventas": 10,
+    "informacion": "Los Audífonos Inalámbricos AUT119 ofrecen una excelente calidad de sonido y un diseño ergonómico que se ajusta cómodamente a tus oídos. Con conectividad Bluetooth 5.0, puedes disfrutar de tu música sin interrupciones y con una batería de larga duración.",
+    "slug": "audifonos-inalambricos-aut119",
+    "isActive": true,
+    "referencias": [
+      {
+        "nombre": "Audífonos Inalámbricos AUT119 Negro",
+        "color": "#000000",
+        "nombreDelColor": "Negro",
+        "precio": 39900,
+        "stock": 45,
+        "idReferencia": 101,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Audífonos Inalámbricos AUT119 Blanco",
+        "color": "#FFFFFF",
+        "nombreDelColor": "Blanco",
+        "precio": 39900,
+        "stock": 50,
+        "idReferencia": 102,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Audífonos Inalámbricos AUT119 Azul",
+        "color": "#0000FF",
+        "nombreDelColor": "Azul",
+        "precio": 39900,
+        "stock": 48,
+        "idReferencia": 103,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      }
+    ],
+    "especificaciones": [
+      { "nombre": "Peso", "valor": "150g" },
+      { "nombre": "Dimensiones", "valor": "10x5x2 cm" },
+      { "nombre": "Material", "valor": "Plástico" }
+    ],
+    "stock": 50,
+    "comentarios": [
+      {
+        "nombre": "Carlos",
+        "comentario": "Excelente calidad de sonido.",
+        "puntaje": 5
+      },
+      {
+        "nombre": "Ana",
+        "comentario": "Muy cómodos y fáciles de usar.",
+        "puntaje": 4
+      }
+    ],
+    "vigenciaDescuento": "2025-07-20"
+  },
+  {
+    "id": 2,
+    "tienda": "1Hora",
+    "marca": "1Hora",
+    "categoria": "Audífonos",
+    "categoriaSlug": "audifonos",
+    "nombre": "Audífonos Bluetooth AUT120",
+    "descripcion": "Audífonos Bluetooth con excelente calidad de sonido y batería de larga duración",
+    "imagenInformacion": "/img/1Hora/productos/Audifonos.png",
+    "precio": 45900,
+    "descuento": true,
+    "porcentajeDescuento": 10,
+    "imagen": "/img/1Hora/productos/Audifonos.png",
+    "imagenes": [
+      "/img/1Hora/productos/Audifonos.png",
+      "/img/1Hora/productos/Audifonos.png"
+    ],
+    "caracteristicas": [
+      "Conectividad Bluetooth 5.0",
+      "Batería de hasta 20 horas",
+      "Diseño plegable",
+      "Cancelación de ruido pasiva"
+    ],
+    "detalles": [
+      "10w de potencia",
+      "4 horas de autonomía",
+      "Conexión Bluetooth 5.0"
+    ],
+    "ventas": 15,
+    "informacion": "Los Audífonos Bluetooth AUT120 combinan una excelente calidad de sonido con una batería de larga duración de hasta 20 horas. Su diseño plegable y la cancelación de ruido pasiva los hacen perfectos para usar en cualquier lugar.",
+    "slug": "audifonos-bluetooth-aut120",
+    "isActive": true,
+    "referencias": [
+      {
+        "nombre": "Audífonos Bluetooth AUT120 Negro",
+        "color": "#000000",
+        "nombreDelColor": "Negro",
+        "precio": 45900,
+        "stock": 30,
+        "idReferencia": 201,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Audífonos Bluetooth AUT120 Azul",
+        "color": "#0000FF",
+        "nombreDelColor": "Azul",
+        "precio": 45900,
+        "stock": 30,
+        "idReferencia": 202,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Audífonos Bluetooth AUT120 Gris",
+        "color": "#808080",
+        "nombreDelColor": "Gris",
+        "precio": 45900,
+        "stock": 30,
+        "idReferencia": 203,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      }
+    ],
+    "especificaciones": [
+      { "nombre": "Peso", "valor": "160g" },
+      { "nombre": "Dimensiones", "valor": "12x6x3 cm" },
+      { "nombre": "Material", "valor": "Plástico" }
+    ],
+    "stock": 30,
+    "comentarios": [
+      {
+        "nombre": "Luis",
+        "comentario": "La batería dura mucho tiempo.",
+        "puntaje": 5
+      },
+      {
+        "nombre": "María",
+        "comentario": "Buena calidad, pero un poco caros.",
+        "puntaje": 4
+      }
+    ],
+    "vigenciaDescuento": "2025-11-05"
+  },
+  {
+    "id": 3,
+    "tienda": "1Hora",
+    "marca": "1Hora",
+    "categoria": "Audífonos",
+    "categoriaSlug": "audifonos",
+    "nombre": "Audífonos Deportivos AUT121",
+    "descripcion": "Audífonos deportivos resistentes al agua y con ajuste seguro",
+    "imagenInformacion": "/img/1Hora/productos/Audifonos.png",
+    "precio": 49900,
+    "descuento": false,
+    "porcentajeDescuento": 0,
+    "imagen": "/img/1Hora/productos/Audifonos.png",
+    "imagenes": [
+      "/img/1Hora/productos/Audifonos.png",
+      "/img/1Hora/productos/Audifonos.png"
+    ],
+    "caracteristicas": [
+      "Resistencia al agua IPX7",
+      "Ajuste seguro y cómodo",
+      "Sonido de alta calidad",
+      "Batería de larga duración"
+    ],
+    "detalles": [
+      "10w de potencia",
+      "4 horas de autonomía",
+      "Conexión Bluetooth 5.0"
+    ],
+    "ventas": 20,
+    "informacion": "Los Audífonos Deportivos AUT121 son ideales para tus entrenamientos gracias a su resistencia al agua IPX7 y su ajuste seguro y cómodo. Disfruta de un sonido de alta calidad y una batería de larga duración mientras te mantienes activo.",
+    "slug": "audifonos-deportivos-aut121",
+    "isActive": true,
+    "referencias": [
+      {
+        "nombre": "Audífonos Deportivos AUT121 Negro",
+        "color": "#000000",
+        "nombreDelColor": "Negro",
+        "precio": 49900,
+        "stock": 40,
+        "idReferencia": 301,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Audífonos Deportivos AUT121 Verde",
+        "color": "#008000",
+        "nombreDelColor": "Verde",
+        "precio": 49900,
+        "stock": 40,
+        "idReferencia": 302,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Audífonos Deportivos AUT121 Naranja",
+        "color": "#FFA500",
+        "nombreDelColor": "Naranja",
+        "precio": 49900,
+        "stock": 40,
+        "idReferencia": 303,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      }
+    ],
+    "especificaciones": [
+      { "nombre": "Peso", "valor": "140g" },
+      { "nombre": "Dimensiones", "valor": "11x5x2.5 cm" },
+      { "nombre": "Material", "valor": "Plástico" }
+    ],
+    "stock": 40,
+    "comentarios": [
+      {
+        "nombre": "Pedro",
+        "comentario": "Perfectos para hacer ejercicio.",
+        "puntaje": 5
+      },
+      {
+        "nombre": "Laura",
+        "comentario": "Resistentes al agua, muy útiles.",
+        "puntaje": 4
+      }
+    ],
+    "vigenciaDescuento": "2025-06-15"
+  },
+  {
+    "id": 4,
+    "tienda": "1Hora",
+    "marca": "1Hora",
+    "categoria": "Audífonos",
+    "categoriaSlug": "audifonos",
+    "nombre": "Audífonos con Cancelación de Ruido AUT122",
+    "descripcion": "Audífonos con cancelación activa de ruido y sonido envolvente",
+    "imagenInformacion": "/img/1Hora/productos/Audifonos.png",
+    "precio": 59900,
+    "descuento": true,
+    "porcentajeDescuento": 15,
+    "imagen": "/img/1Hora/productos/Audifonos.png",
+    "imagenes": [
+      "/img/1Hora/productos/Audifonos.png",
+      "/img/1Hora/productos/Audifonos.png"
+    ],
+    "caracteristicas": [
+      "Cancelación activa de ruido",
+      "Sonido envolvente",
+      "Conectividad Bluetooth 5.0",
+      "Batería de larga duración"
+    ],
+    "detalles": [
+      "10w de potencia",
+      "4 horas de autonomía",
+      "Conexión Bluetooth 5.0"
+    ],
+    "ventas": 25,
+    "informacion": "Los Audífonos con Cancelación de Ruido AUT122 te permiten disfrutar de tu música sin distracciones gracias a su cancelación activa de ruido. Con sonido envolvente y conectividad Bluetooth 5.0, estos audífonos ofrecen una experiencia auditiva superior.",
+    "slug": "audifonos-cancelacion-ruido-aut122",
+    "isActive": true,
+    "referencias": [
+      {
+        "nombre": "Audífonos con Cancelación de Ruido AUT122 Negro",
+        "color": "#000000",
+        "nombreDelColor": "Negro",
+        "precio": 59900,
+        "stock": 20,
+        "idReferencia": 401,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Audífonos con Cancelación de Ruido AUT122 Blanco",
+        "color": "#FFFFFF",
+        "nombreDelColor": "Blanco",
+        "precio": 59900,
+        "stock": 20,
+        "idReferencia": 402,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Audífonos con Cancelación de Ruido AUT122 Azul",
+        "color": "#0000FF",
+        "nombreDelColor": "Azul",
+        "precio": 59900,
+        "stock": 20,
+        "idReferencia": 403,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      }
+    ],
+    "especificaciones": [
+      { "nombre": "Peso", "valor": "170g" },
+      { "nombre": "Dimensiones", "valor": "13x7x3 cm" },
+      { "nombre": "Material", "valor": "Plástico" }
+    ],
+    "stock": 20,
+    "comentarios": [
+      {
+        "nombre": "Jorge",
+        "comentario": "La cancelación de ruido es excelente.",
+        "puntaje": 5
+      },
+      {
+        "nombre": "Sofía",
+        "comentario": "Muy buenos, pero un poco pesados.",
+        "puntaje": 4
+      }
+    ],
+    "vigenciaDescuento": "2025-03-10"
+  },
+  {
+    "id": 5,
+    "tienda": "1Hora",
+    "marca": "1Hora",
+    "categoria": "Audífonos",
+    "categoriaSlug": "audifonos",
+    "nombre": "Audífonos Over-Ear AUT123",
+    "descripcion": "Audífonos Over-Ear con almohadillas cómodas y sonido de alta fidelidad",
+    "imagenInformacion": "/img/1Hora/productos/Audifonos.png",
+    "precio": 69900,
+    "descuento": false,
+    "porcentajeDescuento": 0,
+    "imagen": "/img/1Hora/productos/Audifonos.png",
+    "imagenes": [
+      "/img/1Hora/productos/Audifonos.png",
+      "/img/1Hora/productos/Audifonos.png"
+    ],
+    "caracteristicas": [
+      "Almohadillas cómodas",
+      "Sonido de alta fidelidad",
+      "Diseño plegable",
+      "Conectividad Bluetooth 5.0"
+    ],
+    "detalles": [
+      "10w de potencia",
+      "4 horas de autonomía",
+      "Conexión Bluetooth 5.0"
+    ],
+    "ventas": 30,
+    "informacion": "Los Audífonos Over-Ear AUT123 ofrecen una experiencia auditiva de alta fidelidad con almohadillas cómodas que permiten un uso prolongado. Su diseño plegable y conectividad Bluetooth 5.0 los hacen perfectos para llevar a cualquier lugar.",
+    "slug": "audifonos-over-ear-aut123",
+    "isActive": true,
+    "referencias": [
+      {
+        "nombre": "Audífonos Over-Ear AUT123 Negro",
+        "color": "#000000",
+        "nombreDelColor": "Negro",
+        "precio": 69900,
+        "stock": 25,
+        "idReferencia": 501,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Audífonos Over-Ear AUT123 Gris",
+        "color": "#808080",
+        "nombreDelColor": "Gris",
+        "precio": 69900,
+        "stock": 25,
+        "idReferencia": 502,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Audífonos Over-Ear AUT123 Rojo",
+        "color": "#FF0000",
+        "nombreDelColor": "Rojo",
+        "precio": 69900,
+        "stock": 25,
+        "idReferencia": 503,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      }
+    ],
+    "especificaciones": [
+      { "nombre": "Peso", "valor": "180g" },
+      { "nombre": "Dimensiones", "valor": "14x8x4 cm" },
+      { "nombre": "Material", "valor": "Plástico" }
+    ],
+    "stock": 25,
+    "comentarios": [
+      {
+        "nombre": "Fernando",
+        "comentario": "Sonido de alta fidelidad, muy cómodos.",
+        "puntaje": 5
+      },
+      {
+        "nombre": "Elena",
+        "comentario": "Me encantan, pero son un poco grandes.",
+        "puntaje": 4
+      }
+    ],
+    "vigenciaDescuento": "2025-09-01"
+  },
+  {
+    "id": 6,
+    "tienda": "1Hora",
+    "marca": "1Hora",
+    "categoria": "Accesorios",
+    "categoriaSlug": "accesorios",
+    "nombre": "Cargador Inalámbrico AUT124",
+    "descripcion": "Cargador inalámbrico rápido y compacto",
+    "imagenInformacion": "/img/1Hora/productos/Audifonos.png",
+    "precio": 29900,
+    "descuento": true,
+    "porcentajeDescuento": 5,
+    "imagen": "/img/1Hora/productos/Audifonos.png",
+    "imagenes": [
+      "/img/1Hora/productos/Audifonos.png",
+      "/img/1Hora/productos/Audifonos.png"
+    ],
+    "caracteristicas": [
+      "Carga rápida",
+      "Diseño compacto",
+      "Compatibilidad universal",
+      "Indicador LED"
+    ],
+    "detalles": [
+      "10w de potencia",
+      "4 horas de autonomía",
+      "Conexión Bluetooth 5.0"
+    ],
+    "ventas": 35,
+    "informacion": "El Cargador Inalámbrico AUT124 ofrece una carga rápida y eficiente en un diseño compacto. Compatible con una amplia gama de dispositivos y equipado con un indicador LED para mostrar el estado de la carga.",
+    "slug": "cargador-inalambrico-aut124",
+    "isActive": true,
+    "referencias": [
+      {
+        "nombre": "Cargador Inalámbrico AUT124 Negro",
+        "color": "#000000",
+        "nombreDelColor": "Negro",
+        "precio": 29900,
+        "stock": 60,
+        "idReferencia": 601,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Cargador Inalámbrico AUT124 Blanco",
+        "color": "#FFFFFF",
+        "nombreDelColor": "Blanco",
+        "precio": 29900,
+        "stock": 60,
+        "idReferencia": 602,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      }
+    ],
+    "especificaciones": [
+      { "nombre": "Peso", "valor": "100g" },
+      { "nombre": "Dimensiones", "valor": "8x8x1 cm" },
+      { "nombre": "Material", "valor": "Plástico" }
+    ],
+    "stock": 60,
+    "comentarios": [
+      {
+        "nombre": "Miguel",
+        "comentario": "Carga muy rápido y es fácil de usar.",
+        "puntaje": 5
+      },
+      { "nombre": "Lucía", "comentario": "Compacto y eficiente.", "puntaje": 4 }
+    ],
+    "vigenciaDescuento": "2025-04-22"
+  },
+  {
+    "id": 7,
+    "tienda": "1Hora",
+    "marca": "1Hora",
+    "categoria": "Accesorios",
+    "categoriaSlug": "accesorios",
+    "nombre": "Funda Protectora para Audífonos AUT125",
+    "descripcion": "Funda protectora resistente y ligera para audífonos",
+    "imagenInformacion": "/img/1Hora/productos/Audifonos.png",
+    "precio": 19900,
+    "descuento": false,
+    "porcentajeDescuento": 0,
+    "imagen": "/img/1Hora/productos/Audifonos.png",
+    "imagenes": [
+      "/img/1Hora/productos/Audifonos.png",
+      "/img/1Hora/productos/Audifonos.png"
+    ],
+    "caracteristicas": [
+      "Resistente a golpes",
+      "Ligera y portátil",
+      "Cierre seguro",
+      "Compatibilidad universal"
+    ],
+    "detalles": [
+      "10w de potencia",
+      "4 horas de autonomía",
+      "Conexión Bluetooth 5.0"
+    ],
+    "ventas": 40,
+    "informacion": "La Funda Protectora para Audífonos AUT125 ofrece una protección resistente a golpes en un diseño ligero y portátil. Compatible con una amplia gama de audífonos y equipada con un cierre seguro.",
+    "slug": "funda-protectora-audifonos-aut125",
+    "isActive": true,
+    "referencias": [
+      {
+        "nombre": "Funda Protectora para Audífonos AUT125 Negro",
+        "color": "#000000",
+        "nombreDelColor": "Negro",
+        "precio": 19900,
+        "stock": 100,
+        "idReferencia": 701,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      },
+      {
+        "nombre": "Funda Protectora para Audífonos AUT125 Azul",
+        "color": "#0000FF",
+        "nombreDelColor": "Azul",
+        "precio": 19900,
+        "stock": 100,
+        "idReferencia": 702,
+        "imagen": "/img/1Hora/productos/Audifonos.png",
+        "tienda": "1Hora"
+      }
+    ],
+    "especificaciones": [
+      { "nombre": "Peso", "valor": "50g" },
+      { "nombre": "Dimensiones", "valor": "10x10x3 cm" },
+      { "nombre": "Material", "valor": "Silicona" }
+    ],
+    "stock": 100,
+    "comentarios": [
+      {
+        "nombre": "Andrea",
+        "comentario": "Protege muy bien mis audífonos.",
+        "puntaje": 5
+      },
+      {
+        "nombre": "Juan",
+        "comentario": "Buena calidad y diseño.",
+        "puntaje": 4
+      }
+    ],
+    "vigenciaDescuento": "2025-12-28"
+  }
+]

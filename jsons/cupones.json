@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "cupon": "DESCUENTO10",
+    "porcentaje": 10,
+    "tienda": "TecnoSuper",
+    "imageTienda": "/img/TecnoSuper/logos/tecnosuper.png",
+    "fechaInicio": "2023-01-01",
+    "fechaExpiracion": "2025-12-31",
+    "uso": "unico",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "cupon": "OFERTA20",
+    "porcentaje": 20,
+    "tienda": "TecnoSuper",
+    "imageTienda": "/img/TecnoSuper/logos/tecnosuper.png",
+    "fechaInicio": "2023-01-01",
+    "fechaExpiracion": "2025-12-31",
+    "uso": "multiuso",
+    "activo": true
+  },
+  {
+    "id": 3,
+    "cupon": "PROMO30",
+    "porcentaje": 30,
+    "tienda": "Supercase",
+    "imageTienda": "/img/Supercase/logos/Supercase.png",
+    "fechaInicio": "2023-01-01",
+    "fechaExpiracion": "2025-12-31",
+    "uso": "unico",
+    "activo": true
+  },
+  {
+    "id": 4,
+    "cupon": "UNIVERSAL50",
+    "porcentaje": 50,
+    "tienda": "Supercase",
+    "imageTienda": "/img/Supercase/logos/Supercase.png",
+    "fechaInicio": "2023-01-01",
+    "fechaExpiracion": "2025-12-31",
+    "uso": "multiuso",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "cupon": "AHORRA15",
+    "porcentaje": 15,
+    "tienda": "Ezviz",
+    "imageTienda": "/img/Ezviz/logos/ezviz.png",
+    "fechaInicio": "2023-01-01",
+    "fechaExpiracion": "2025-12-31",
+    "uso": "unico",
+    "activo": true
+  },
+  {
+    "id": 6,
+    "cupon": "DESCUENTO25",
+    "porcentaje": 25,
+    "tienda": "Ezviz",
+    "imageTienda": "/img/Ezviz/logos/ezviz.png",
+    "fechaInicio": "2023-01-01",
+    "fechaExpiracion": "2025-12-31",
+    "uso": "multiuso",
+    "activo": true
+  },
+  {
+    "id": 7,
+    "cupon": "SALE40",
+    "porcentaje": 40,
+    "tienda": "1Hora",
+    "imageTienda": "/img/1Hora/logos/1Hora.png",
+    "fechaInicio": "2023-01-01",
+    "fechaExpiracion": "2025-12-31",
+    "uso": "unico",
+    "activo": true
+  },
+  {
+    "id": 8,
+    "cupon": "DEAL35",
+    "porcentaje": 35,
+    "tienda": "1Hora",
+    "imageTienda": "/img/1Hora/logos/1Hora.png",
+    "fechaInicio": "2023-01-01",
+    "fechaExpiracion": "2025-12-31",
+    "uso": "multiuso",
+    "activo": true
+  }
+]
